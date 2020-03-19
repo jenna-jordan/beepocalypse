@@ -4,15 +4,21 @@ This project was a collaboration between the Cline Center and Dr. May Berenbaum 
 
 ## PNAS Paper details
 Title: 
+
 "No buzz for bees: media coverage of pollinator decline" 
 
 Authors:
+
 Scott Althaus (University of Illinois at Urbana-Champaign)
+
 May R. Berenbaum (University of Illinois at Urbana Champaign)
+
 Jenna Jordan (University of Illinois at Urbana-Champaign)
+
 Dan Shalmon (University of Illinois at Urbana-Champaign)
 
 Status:
+
 Submitted (awaiting review)
 
 ## Navigating this repo
@@ -28,6 +34,6 @@ Submitted (awaiting review)
 "Final Graphics" contains the R script used to create the final figures for the PNAS submission, as well as the images themselves.
 
 ## Interactive Query Visualizer
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jenna-jordan/beepocalypse/master?urlpath=%2Fvoila%2Frender%2FNotebooks%2FVisualize_Query_Results.ipynb)
 
 Please click the button above to explore the data collected. This interactive visualization was created with the Plotly python library and ipywidgets. You can generate plots to compare time-series across queries or publishers.
