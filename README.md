@@ -3,22 +3,16 @@
 This project was a collaboration between the Cline Center and Dr. May Berenbaum during the Spring 2020 semester. The project resulted in a Perspective article submitted to PNAS in March 2020.
 
 ## PNAS Paper details
-Title: 
-
+#### Title: 
 "No buzz for bees: media coverage of pollinator decline" 
 
-Authors:
+#### Authors:
+- Scott Althaus (University of Illinois at Urbana-Champaign)
+- May R. Berenbaum (University of Illinois at Urbana Champaign)
+- Jenna Jordan (University of Illinois at Urbana-Champaign)
+- Dan Shalmon (University of Illinois at Urbana-Champaign)
 
-Scott Althaus (University of Illinois at Urbana-Champaign)
-
-May R. Berenbaum (University of Illinois at Urbana Champaign)
-
-Jenna Jordan (University of Illinois at Urbana-Champaign)
-
-Dan Shalmon (University of Illinois at Urbana-Champaign)
-
-Status:
-
+#### Status:
 Submitted (awaiting review)
 
 ## Navigating this repo
