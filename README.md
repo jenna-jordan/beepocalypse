@@ -12,8 +12,6 @@ This project was a collaboration between the Cline Center and Dr. May Berenbaum 
 - Jenna Jordan (University of Illinois at Urbana-Champaign)
 - Dan Shalmon (University of Illinois at Urbana-Champaign)
 
-#### Status:
-Submitted (awaiting review)
 
 ## Navigating this repo
 "Notebooks" contains the Jupyter notebooks and python scripts used to collect, wrangle, and visualize the data. The notebooks should be run in this order:
